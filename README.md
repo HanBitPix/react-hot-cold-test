@@ -1,1 +1,1 @@
-# React hot or cold solution
+# React hot or cold
